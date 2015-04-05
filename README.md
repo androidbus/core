@@ -16,4 +16,4 @@ Maven:
 </dependency>
 ```
 
-[Or download EventBus from Maven Central](http://search.maven.org/#search%7Cga%7C1%7Cg%3A%22com.github.androidbus%22%20AND%20a%3A%22core%22)
+[Or download AndroidBus from Maven Central](http://search.maven.org/#search%7Cga%7C1%7Cg%3A%22com.github.androidbus%22%20AND%20a%3A%22core%22)
